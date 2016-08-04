@@ -1,5 +1,5 @@
 /**
- * Determine limits without zeros in array and prints them.
+ * Determine limits without zeros in array and print them.
  */
 
 package SkipZeros;
