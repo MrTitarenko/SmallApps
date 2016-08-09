@@ -1,5 +1,5 @@
 /**
- * Print elements from array 'buff' that != 0.
+ * Determine limits without zeros in array and print them.
  */
 
 package SkipZeros;
